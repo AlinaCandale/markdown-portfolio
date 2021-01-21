@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+https://github.com/AlinaCandale/markdown-portfolio/pull/3#issuecomment-764508883
