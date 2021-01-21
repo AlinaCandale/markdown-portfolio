@@ -1,1 +1,1 @@
-https://github.com/AlinaCandale/markdown-portfolio/pull/3#issuecomment-764508883
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).
